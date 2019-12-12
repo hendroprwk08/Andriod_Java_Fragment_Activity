@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FragmentChapter.iml" filepath="$PROJECT_DIR$/FragmentChapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Andriod_Java_Fragment_Activity.iml" filepath="$PROJECT_DIR$/Andriod_Java_Fragment_Activity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
